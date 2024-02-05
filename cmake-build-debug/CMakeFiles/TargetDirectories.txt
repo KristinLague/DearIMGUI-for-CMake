@@ -1,0 +1,9 @@
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/CMakeFiles/DearIMGUI.dir
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/binary_dir/CMakeFiles/edit_cache.dir
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/binary_dir/CMakeFiles/rebuild_cache.dir
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/binary_dir/src/CMakeFiles/glfw.dir
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/binary_dir/src/CMakeFiles/update_mappings.dir
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/binary_dir/src/CMakeFiles/edit_cache.dir
+C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug/binary_dir/src/CMakeFiles/rebuild_cache.dir

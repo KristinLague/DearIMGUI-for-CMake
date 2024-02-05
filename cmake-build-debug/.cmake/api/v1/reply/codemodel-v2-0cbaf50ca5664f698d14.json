@@ -1,0 +1,127 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "binary_dir",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-binary_dir-Debug-d61058afe97d003a8c11.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "glfw"
+				},
+				{
+					"build" : "binary_dir/src",
+					"jsonFile" : "directory-binary_dir.src-Debug-8781ca07c38ac78b9d01.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "glfw/src",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DearIMGUI",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "GLFW",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DearIMGUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DearIMGUI-Debug-443b7f7a25726ab5b842.json",
+					"name" : "DearIMGUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "glfw::@0d9120013b5547956b1a",
+					"jsonFile" : "target-glfw-Debug-d79325d5b61ae617cf53.json",
+					"name" : "glfw",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "update_mappings::@0d9120013b5547956b1a",
+					"jsonFile" : "target-update_mappings-Debug-961986aba1ac6ece55d0.json",
+					"name" : "update_mappings",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug",
+		"source" : "C:/Users/krist/CLionProjects/DearIMGUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

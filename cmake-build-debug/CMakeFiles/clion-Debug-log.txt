@@ -1,7 +1,5 @@
 "C:\Users\krist\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/krist/AppData/Local/Programs/CLion Nova/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\krist\CLionProjects\DearIMGUI -B C:\Users\krist\CLionProjects\DearIMGUI\cmake-build-debug
-CMake Error at CMakeLists.txt:19 (add_subdirectory):
-  add_subdirectory given source "C:/Users/krist/CLionProjects/DearIMGUI/glfw"
-  which is not an existing directory.
-
-
--- Configuring incomplete, errors occurred!
+-- Including Win32 support
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/krist/CLionProjects/DearIMGUI/cmake-build-debug
